@@ -1,0 +1,45 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "com.circleci.demo",
+    "children" : [ {
+      "name" : "thirdTest",
+      "uid" : "90a80ac5d402aa75",
+      "parentUid" : "219d9cfa894bbca493240901cafa82a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1541497560869,
+        "stop" : 1541497560954,
+        "duration" : 85
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "firstTest",
+      "uid" : "76e0ee8bdf3d4c34",
+      "parentUid" : "219d9cfa894bbca493240901cafa82a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1541497561174,
+        "stop" : 1541497561175,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "secondTest",
+      "uid" : "bbb895dca01757d3",
+      "parentUid" : "219d9cfa894bbca493240901cafa82a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1541497561182,
+        "stop" : 1541497561183,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "com.circleci.demo"
+  } ],
+  "name" : "packages"
+}

@@ -1,0 +1,77 @@
+{
+  "uid" : "bbb895dca01757d3",
+  "name" : "secondTest",
+  "fullName" : "com.circleci.demo.TestClass.secondTest",
+  "historyId" : "59c34045de6aa19086e3963e459177bd",
+  "time" : {
+    "start" : 1541497561182,
+    "stop" : 1541497561183,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "logStep",
+      "time" : {
+        "start" : 1541497561183,
+        "stop" : 1541497561183,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "text",
+        "value" : "secondTest"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.circleci.demo"
+  }, {
+    "name" : "testClass",
+    "value" : "com.circleci.demo.TestClass"
+  }, {
+    "name" : "testMethod",
+    "value" : "secondTest"
+  }, {
+    "name" : "suite",
+    "value" : "com.circleci.demo.TestClass"
+  }, {
+    "name" : "host",
+    "value" : "travis-job-b6f03151-6038-476b-bfd2-8db648910c35"
+  }, {
+    "name" : "thread",
+    "value" : "4456@travis-job-b6f03151-6038-476b-bfd2-8db648910c35.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bbb895dca01757d3.json",
+  "parameterValues" : [ ]
+}

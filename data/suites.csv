@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","com.circleci.demo.TestClass.thirdTest","85",""
+"passed","com.circleci.demo.TestClass.secondTest","1",""
+"passed","com.circleci.demo.TestClass.firstTest","1",""
