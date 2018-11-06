@@ -1,5 +1,25 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Element not found {by text: Найти}\nExpected: exist",
+      "children" : [ {
+        "name" : "test_2",
+        "uid" : "217b6fc34316d8bd",
+        "parentUid" : "29051c20677e913b31e114782e48b856",
+        "status" : "failed",
+        "time" : {
+          "start" : 1541527936975,
+          "stop" : 1541527942593,
+          "duration" : 5618
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "29051c20677e913b31e114782e48b856"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
   "name" : "categories"
 }

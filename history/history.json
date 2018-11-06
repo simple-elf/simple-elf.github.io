@@ -1,5 +1,5 @@
 {
-  "b232f9baf20478c598b39f3e8e4a94bd" : {
+  "8ced8c7659dacd37a192bd01347caf17" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -9,50 +9,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "76e0ee8bdf3d4c34",
+      "uid" : "9f943669bb45bf86",
       "status" : "passed",
       "time" : {
-        "start" : 1541497561174,
-        "stop" : 1541497561175,
-        "duration" : 1
+        "start" : 1541527928214,
+        "stop" : 1541527936768,
+        "duration" : 8554
       }
     } ]
   },
-  "59c34045de6aa19086e3963e459177bd" : {
+  "da2f4f38cd97d2872be6bcc061ddcfc8" : {
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "bbb895dca01757d3",
-      "status" : "passed",
+      "uid" : "217b6fc34316d8bd",
+      "status" : "failed",
+      "statusDetails" : "Element not found {by text: Найти}\nExpected: exist",
       "time" : {
-        "start" : 1541497561182,
-        "stop" : 1541497561183,
-        "duration" : 1
-      }
-    } ]
-  },
-  "7a1e3452b4753dc4fca4284f1ecdf1c" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "90a80ac5d402aa75",
-      "status" : "passed",
-      "time" : {
-        "start" : 1541497560869,
-        "stop" : 1541497560954,
-        "duration" : 85
+        "start" : 1541527936975,
+        "stop" : 1541527942593,
+        "duration" : 5618
       }
     } ]
   }
